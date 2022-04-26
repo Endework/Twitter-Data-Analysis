@@ -1,4 +1,5 @@
-#Endework Abera
+"""Endework Abera week 0 intensive training"""
+"""4/26/2022"""
 import json
 import pandas as pd
 from textblob import TextBlob
